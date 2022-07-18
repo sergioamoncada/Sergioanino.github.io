@@ -2,4 +2,4 @@
 
 ## add upstream
 
-### usptream sur la console !
+### upstream sur la console !
