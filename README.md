@@ -62,3 +62,10 @@
 - git push
 
 - pull request pour merge les deux branchs
+
+## effacer une branch définitivement.
+
+- git branch -d <nomBranch>
+- git branch -a
+- git push origin :<nomBranch>
+- git remote prune origin
