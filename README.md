@@ -33,5 +33,7 @@
 
 ### les prochaine fois on ne sera pas obliger de faire la longue commande :
 
-- git commit -am "<notre commit explication>"
+- git commit -am "notre commit explication"
 - git push
+
+* suite du pull request fait sur github
