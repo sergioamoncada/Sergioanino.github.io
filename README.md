@@ -36,4 +36,6 @@
 - git commit -am "notre commit explication"
 - git push
 
-* suite du pull request fait sur github
+* suite du pull request fait sur github.
+
+## effacer une branch feature
