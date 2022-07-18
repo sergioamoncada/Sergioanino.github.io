@@ -25,3 +25,7 @@
 - git branch ou git branch -a
 - git status ou git s
 - créer la branch : git checkout -b feature-nino
+
+* push la branch
+  - git push : ne va pas fonctionner mais il va nous indiquer la procedure à suivre.
+  - git push --set-upstream origin feature-nino
