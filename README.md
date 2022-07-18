@@ -22,5 +22,6 @@
 
 ### Feature branch : pull request et merge de ma branch vers main. : fux de travail.
 
+- git branch ou git branch -a
 - git status ou git s
 - créer la branch : git checkout -b feature-nino
