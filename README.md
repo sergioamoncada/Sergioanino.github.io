@@ -48,3 +48,17 @@
 \*\* effacer la branche feature ou autre :
 
 - git brach -d feature-nino si jamais on veut le force d'efface à la force car il y a des commit ou des changements en suspend pas nécessaire. git brach -d feature-nino -f
+
+# apporter des tout les branches des autre collaborateur :
+
+- git pull
+- git pull --all --> cas que la brach d'un autre collaborateur n’apparaît pas!
+- git branch -a
+
+* Bouger vers l'autre brach d'un collaborateur.
+
+- git checkout <nomBranch>
+- git commit -am "notre commit explication"
+- git push
+
+- pull request pour merge les deux branchs
