@@ -19,3 +19,23 @@
 - 3 : Apporter les changements sur notre repo original avant fork.
   - 3.1 : git pull
   - 3.2 : git pull upstream <branch à apporter les donnée> main
+
+# Feature branch : pull request et merge de ma branch vers main. : fux de travail.
+
+- git branch ou git branch -a
+- git status ou git s
+- créer la branch : git checkout -b feature-nino
+
+## push la branch
+
+- git push : ne va pas fonctionner mais il va nous indiquer la procedure à suivre.
+- git push --set-upstream origin feature-nino
+
+### les prochaine fois on ne sera pas obliger de faire la longue commande :
+
+- git commit -am "notre commit explication"
+- git push
+
+* suite du pull request fait sur github.
+
+## effacer une branch feature
