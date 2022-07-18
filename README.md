@@ -38,4 +38,13 @@
 
 * suite du pull request fait sur github.
 
-## effacer une branch feature
+## effacer une branch feature.
+
+- L'effacer sur github : par contre elle ne s'efface pas sur le repo local.
+- 1 : git branch
+- 2 : git checkout main
+- 3 : git pull ---> cela va apporter tout les changements de github.
+
+\*\* effacer la branche feature ou autre :
+
+- git brach -d feature-nino si jamais on veut le force d'efface à la force car il y a des commit ou des changements en suspend pas nécessaire. git brach -d feature-nino -f
