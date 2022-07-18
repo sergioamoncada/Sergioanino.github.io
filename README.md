@@ -27,5 +27,11 @@
 - créer la branch : git checkout -b feature-nino
 
 * push la branch
+
   - git push : ne va pas fonctionner mais il va nous indiquer la procedure à suivre.
   - git push --set-upstream origin feature-nino
+
+* les prochaine fois on ne sera pas obliger de faire la longue commande :
+
+- git commit -am "<notre commit explication>"
+- git push
